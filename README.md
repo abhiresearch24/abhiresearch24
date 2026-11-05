@@ -1,6 +1,19 @@
-## Hi, I'm Abhishek Srivastava 👋
+<h1 align="center">Abhishek Srivastava</h1>
 
-Project Associate, Department of Mechanical Engineering, **IIT Palakkad** · Ph.D., **IIT Delhi** (2026)
+<p align="center">
+  <b>Scientific ML · Uncertainty Quantification · CFD & Particle Transport</b><br>
+  Project Associate, Mechanical Engineering, IIT Palakkad · Ph.D., IIT Delhi (2026)
+</p>
+
+<p align="center">
+  <a href="https://abhiresearch24.github.io"><img src="https://img.shields.io/badge/Website-222222?style=flat&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=GuwU95QAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0002-2269-0105"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/abhishek-srivastava-863513a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abhiresearch24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
 
 I work at the intersection of **scientific machine learning**, **uncertainty quantification**, and **physics-based simulation (CFD and Lagrangian particle tracing)** for thermal-fluid and particulate systems:
 
@@ -26,7 +39,3 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=GuwU95QAAA
 ### Tools
 
 Python · TensorFlow · scikit-learn · LightGBM · SHAP · FEniCS · COMSOL Multiphysics
-
-### Contact
-
-[Website](https://abhiresearch24.github.io) · [Google Scholar](https://scholar.google.com/citations?user=GuwU95QAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/abhishek-srivastava-863513a9) · [ORCID](https://orcid.org/0009-0002-2269-0105) · abhiresearch24@gmail.com
