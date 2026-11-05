@@ -2,7 +2,7 @@
 
 Project Associate, Department of Mechanical Engineering, **IIT Palakkad** · Ph.D., **IIT Delhi** (2026)
 
-I work at the intersection of **scientific machine learning**, **uncertainty quantification**, and **physics-based simulation (CFD and DEM)** for thermal-fluid and particulate systems:
+I work at the intersection of **scientific machine learning**, **uncertainty quantification**, and **physics-based simulation (CFD and Lagrangian particle tracing)** for thermal-fluid and particulate systems:
 
 - **Bayesian inverse problems & UQ** — variational (VAE-based) posterior approximation benchmarked against MCMC, and Fisher-information analysis of when variational posteriors under- or over-estimate uncertainty
 - **Identifiability & sensor placement** — optimal experimental design for inverse heat transfer in jet impingement cooling, using physics-informed surrogates (PINN / PIKAN)
